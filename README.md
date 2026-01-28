@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I’m Lennon 👋
 
-<!--
-**lennonrozo/lennonrozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science student with a 4.0 GPA, focused on building and optimizing software systems.
 
-Here are some ideas to get you started:
+I’ve built:
+- Full-stack and backend applications using React, Django, REST APIs, and SQL
+- Performance-conscious systems with algorithmic and cost optimizations (e.g., batching LLM API calls to reduce O(n) → O(1))
+- Accessibility-focused tools using browser APIs and applied LLMs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently seeking Software Engineering intern and new-grad roles in high-impact engineering teams.
+
+📄 Resume: nn
+🔗 LinkedIn: https://www.linkedin.com/in/lennon-rozo-bb9353288/
+
+
