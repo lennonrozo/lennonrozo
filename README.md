@@ -9,7 +9,7 @@ I’ve built:
 
 I’m currently seeking Software Engineering intern and new-grad roles in high-impact engineering teams.
 
-📄 Resume: nn
+📄 Resume: https://raw.githubusercontent.com/lennonrozo/resume/main/resume.pdf
 🔗 LinkedIn: https://www.linkedin.com/in/lennon-rozo-bb9353288/
 
 
